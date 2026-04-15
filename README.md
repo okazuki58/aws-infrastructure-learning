@@ -38,7 +38,7 @@ DandoriAIのインフラ構成:
 |-----|---------|--------|-------|
 | 7 | S3基礎 - バケット・オブジェクト・アクセス制御 | :white_check_mark: 完了 | #7 |
 | 8 | RDS基礎 - インスタンス・スキーマ分離・バックアップ | :white_check_mark: 完了 | #8 |
-| 9 | SSM Parameter Store - 設定管理とシークレット | :red_circle: 未着手 | #9 |
+| 9 | SSM Parameter Store - 設定管理とシークレット | :white_check_mark: 完了 | #9 |
 
 ### Phase 4: 非同期処理（Day 10-11）
 
@@ -63,7 +63,7 @@ DandoriAIのインフラ構成:
 
 ## 進捗
 - 開始日: 2026-04-05
-- 完了Day: 8 / 15
+- 完了Day: 9 / 15
 - 総学習時間: 0h
 
 ## 学習ログ
