@@ -20,9 +20,9 @@ DandoriAIのインフラ構成:
 
 | Day | トピック | Status | Issue |
 |-----|---------|--------|-------|
-| 1 | AWSの全体像 - リージョン・AZ・VPC・サブネット | :red_circle: 未着手 | #1 |
-| 2 | セキュリティグループとIAM - 誰が何にアクセスできるか | :red_circle: 未着手 | #2 |
-| 3 | ネットワーク実践 - DandoriAIのVPC構成を読み解く | :red_circle: 未着手 | #3 |
+| 1 | AWSの全体像 - リージョン・AZ・VPC・サブネット | :white_check_mark: 完了 | #1 |
+| 2 | セキュリティグループとIAM - 誰が何にアクセスできるか | :white_check_mark: 完了 | #2 |
+| 3 | ネットワーク実践 - DandoriAIのVPC構成を読み解く | :white_check_mark: 完了 | #3 |
 
 ### Phase 2: コンピュート（Day 4-6）
 
@@ -63,7 +63,7 @@ DandoriAIのインフラ構成:
 
 ## 進捗
 - 開始日: 2026-04-05
-- 完了Day: 0 / 15
+- 完了Day: 3 / 15
 - 総学習時間: 0h
 
 ## 学習ログ
