@@ -52,7 +52,7 @@ DandoriAIのインフラ構成:
 | Day | トピック | Status | Issue |
 |-----|---------|--------|-------|
 | 12 | Terraform基礎 - state・plan・apply・モジュール | :white_check_mark: 完了 | #12 |
-| 13 | Terraform実践 - DandoriAIのインフラコードを読む | :red_circle: 未着手 | #13 |
+| 13 | Terraform実践 - DandoriAIのインフラコードを読む | :white_check_mark: 完了 | #13 |
 | 14 | CI/CD - GitHub Actions + ECR + ECSデプロイ | :red_circle: 未着手 | #14 |
 
 ### Phase 6: 総合演習（Day 15）
@@ -63,7 +63,7 @@ DandoriAIのインフラ構成:
 
 ## 進捗
 - 開始日: 2026-04-05
-- 完了Day: 12 / 15
+- 完了Day: 13 / 15
 - 総学習時間: 0h
 
 ## 学習ログ
